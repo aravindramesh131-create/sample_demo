@@ -2,3 +2,5 @@ python
 pytorch
 scikitlearn
 tensorflow
+pandas
+numpy
